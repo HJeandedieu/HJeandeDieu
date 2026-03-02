@@ -54,16 +54,6 @@ I'm a developer specializing in **Machine Learning** and **Full-Stack Developmen
 
 ---
 
-## GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hjeandedieu&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
-
----
 
 ## Featured Projects
 
