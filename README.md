@@ -1,4 +1,4 @@
-# Hi there, I'm Jean
+# Hi there, I'm Jean de Dieu
 
 <div align="center">
 
